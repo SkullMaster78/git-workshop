@@ -1,6 +1,2 @@
 Howdy there!
-<<<<<<< HEAD
-Wait! I thought I already put a second line of text.
-=======
 Second line of text
->>>>>>> conflict
